@@ -156,6 +156,9 @@ body {
     --content-padding: 2rem;
     grid-template-columns: 1fr 1fr;
   }
+  .product__image img {
+    height: 100%;
+  }
 }
 .product__content {
   padding: var(--content-padding);
