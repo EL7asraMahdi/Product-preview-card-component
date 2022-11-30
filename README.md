@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/solution-product-preview-card-component-challenge-on-frontend-mentor-7lciOKs992)
 - Live Site URL: [live site URL here](https://thriving-horse-6f69f3.netlify.app/)
 
 ### Built with
