@@ -21,7 +21,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL here](https://your-solution-url.com)
-- Live Site URL: [live site URL here](thriving-horse-6f69f3.netlify.app)
+- Live Site URL: [live site URL here](https://thriving-horse-6f69f3.netlify.app/)
 
 ### Built with
 
